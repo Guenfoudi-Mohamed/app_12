@@ -18,7 +18,7 @@
  body > input[id="check_2"]:checked ~ .section .container .login{left: 0%;}
  body > input[id="check_2"]:checked ~ .section .container .signup{left: 100%;}
  /*=== start section ===*/
-body .section{width: 425px;min-height: 500px;position: absolute;left: 50%;top: 50%; transform:translate(-50% ,-50%);background-color:rgb(255,255,255,1);backdrop-filter: blur(10px); border: 2px solid #000;border-radius:10px;}
+body .section{width: 425px;min-height: 500px;position: absolute;left: 50%;top: 50%; transform:translate(-50% ,-50%);background-color:rgb(255,255,255,1);backdrop-filter: blur(10px);border-radius:10px;}
     /* start container */
 body .section .container{width: 85%;min-height:430px;position: absolute;left: 50%;top: 50%; transform:translate(-50% ,-50%);overflow: hidden;}
     /* start content_top */
